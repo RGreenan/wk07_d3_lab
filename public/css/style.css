@@ -1,0 +1,17 @@
+body {
+  font-family: helvetica;
+}
+
+ul {
+  list-style-position: inside;
+  padding-left: 0;
+  list-style: none;
+}
+
+h3 {
+  text-decoration: underline;
+}
+
+.small {
+  height: 150px;
+}
